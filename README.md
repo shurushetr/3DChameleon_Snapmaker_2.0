@@ -8,7 +8,7 @@ I've made a few successful prints with 3D Chameleon on Snapmake2.0 and attemptin
 This is MK3 3Dchameleon version. I plan to upgrade to MK4 and will bring the repo up to speed unless community steps in and does it faster then me.
 
 # Discussion
-Please join the topic at the Snapmaker Forum - 
+Please join the topic at the Snapmaker Forum - [3d Chameleon - up to 4 color/material printing with Single Extruder](https://forum.snapmaker.com/t/3d-chameleon-up-to-4-color-material-printing-with-single-extruder/37069)
 
 # Project Structure
 
